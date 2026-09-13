@@ -56,7 +56,8 @@ time you push to `main`.
 5. Push already triggered a build — check the **Actions** tab for progress.
    Once it's green, your site is live at:
    `https://<your-username>.github.io/<your-repo>/`
-6. Any future `git push` to `main` re-deploys automatically.
+   https://aswin28krishna.github.io/project-control-system/
+7. Any future `git push` to `main` re-deploys automatically.
 
 Since it's just for you, this is genuinely a "set it up once and forget it"
 setup — no separate hosting account needed, it's the same GitHub account
